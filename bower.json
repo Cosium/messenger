@@ -25,7 +25,13 @@
     "build/css/messenger-theme-flat.css",
     "build/css/messenger-theme-block.css",
     "build/css/messenger-theme-air.css",
-    "build/css/messenger-theme-ice.css"
+    "build/css/messenger-theme-ice.css",
+    "build/css/google-fonts.raleway-400.css",
+    "build/css/Raleway_400_normal.eot",
+    "build/css/Raleway_400_normal.svg",
+    "build/css/Raleway_400_normal.ttf",
+    "build/css/Raleway_400_normal.woff",
+    "build/css/Raleway_400_normal.woff2"
   ],
   "dependencies": {
     "jquery": "*"
